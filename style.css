@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(255, 214, 163);
+}
+
+.formúlario {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.form{
+    align-items: center;
+}
